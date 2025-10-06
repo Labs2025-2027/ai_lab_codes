@@ -1,0 +1,11 @@
+__pycache__
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.ico
+*.cur
+*.DS_Store
